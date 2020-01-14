@@ -1,10 +1,10 @@
-CV
+HTML-Personal-Website
 
-https://canbinmei.github.io/cv/
+https://canbinmei.github.io/HTML-Personal-Website/
 
-mysite
+CSS-Personal-Webiste
 
-https://canbinmei.github.io/mysite/
+https://canbinmei.github.io/CSS-Personal-Website/
 
 Tindog
 
